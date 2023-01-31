@@ -31,6 +31,3 @@
 ##### 2. Enter command
 > mvn clean test
 ##### 3. The JUnit test results will be outputted to .txt files in /target/surefire-reports
-
-## Video Link: 
-### https://drive.google.com/file/d/1h_825hc3hRr1vR8n3COf_YIuw3bJK6hs/view?usp=sharing
